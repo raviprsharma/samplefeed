@@ -1,0 +1,18 @@
+.post {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+.buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.comments-section {
+  margin-top: 1rem;
+  padding-left: 1rem;
+  border-left: 2px solid #ddd;
+}

@@ -1,0 +1,10 @@
+
+.comment-form {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.comment-form input {
+  flex: 1;
+}
